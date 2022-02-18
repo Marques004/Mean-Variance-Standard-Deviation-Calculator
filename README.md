@@ -35,4 +35,4 @@ The unit tests for this project are in test_module.py.
 Development
 For development, you can use main.py to test your calculate() function. Click the "run" button and main.py will run.
 
-Challenge Doing...
+Challenge Accepted
